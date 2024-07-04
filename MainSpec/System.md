@@ -1,6 +1,6 @@
 # System
 
-The **system** library will be useful to interact with Windows API. The user will be able to access the clipboard, open a new messagebox etc.
+The **System** library will be useful to interact with Windows API. The user will be able to access the clipboard, open a new messagebox etc.
 
 ---
 ## messagebox (Aliases: MessageBox, msgbox)
