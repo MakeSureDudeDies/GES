@@ -23,6 +23,4 @@ int messagebox(lua_State* L) {
 	return 0;
 }
 ```
-Note: It causes a client stack leak in Garry's Mod and crashes the client.
-
 ---
