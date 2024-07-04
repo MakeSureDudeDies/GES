@@ -1,6 +1,7 @@
 # Scripts
 
-The **Script** library will be useful to interact with Roblox scripts. 
+The **Script** library will be useful to interact with Roblox scripts.
+
 ---
 ## getscriptbytecode
 
