@@ -14,6 +14,8 @@ EnvFunctions = {
     "getreg",
     "getregistry",
     "getgenv",
+    "getscriptbytecode",
+    "getscripts",
     "messagebox",
     'MessageBox',
     "msgbox"
